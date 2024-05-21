@@ -2,13 +2,13 @@
  "cells": [
   {
    "cell_type": "markdown",
-   "id": "deae7b6e",
+   "id": "9a04bf0b",
    "metadata": {
     "papermill": {
-     "duration": 0.004638,
-     "end_time": "2024-05-19T23:22:08.227095",
+     "duration": 0.005804,
+     "end_time": "2024-05-21T01:15:08.247248",
      "exception": false,
-     "start_time": "2024-05-19T23:22:08.222457",
+     "start_time": "2024-05-21T01:15:08.241444",
      "status": "completed"
     },
     "tags": []
@@ -27,19 +27,19 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "5ab6fcc0",
+   "id": "69787f81",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:08.237619Z",
-     "iopub.status.busy": "2024-05-19T23:22:08.236892Z",
-     "iopub.status.idle": "2024-05-19T23:22:10.819529Z",
-     "shell.execute_reply": "2024-05-19T23:22:10.818211Z"
+     "iopub.execute_input": "2024-05-21T01:15:08.259311Z",
+     "iopub.status.busy": "2024-05-21T01:15:08.258441Z",
+     "iopub.status.idle": "2024-05-21T01:15:10.567352Z",
+     "shell.execute_reply": "2024-05-21T01:15:10.566147Z"
     },
     "papermill": {
-     "duration": 2.591484,
-     "end_time": "2024-05-19T23:22:10.822749",
+     "duration": 2.317309,
+     "end_time": "2024-05-21T01:15:10.570038",
      "exception": false,
-     "start_time": "2024-05-19T23:22:08.231265",
+     "start_time": "2024-05-21T01:15:08.252729",
      "status": "completed"
     },
     "tags": []
@@ -57,19 +57,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "6df6cf3b",
+   "id": "cbc0dd42",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:10.833506Z",
-     "iopub.status.busy": "2024-05-19T23:22:10.832868Z",
-     "iopub.status.idle": "2024-05-19T23:22:14.082343Z",
-     "shell.execute_reply": "2024-05-19T23:22:14.081088Z"
+     "iopub.execute_input": "2024-05-21T01:15:10.578742Z",
+     "iopub.status.busy": "2024-05-21T01:15:10.578258Z",
+     "iopub.status.idle": "2024-05-21T01:15:13.083713Z",
+     "shell.execute_reply": "2024-05-21T01:15:13.082390Z"
     },
     "papermill": {
-     "duration": 3.258122,
-     "end_time": "2024-05-19T23:22:14.085334",
+     "duration": 2.512968,
+     "end_time": "2024-05-21T01:15:13.086455",
      "exception": false,
-     "start_time": "2024-05-19T23:22:10.827212",
+     "start_time": "2024-05-21T01:15:10.573487",
      "status": "completed"
     },
     "tags": []
@@ -82,19 +82,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "497bfe02",
+   "id": "363a0e00",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:14.094971Z",
-     "iopub.status.busy": "2024-05-19T23:22:14.094558Z",
-     "iopub.status.idle": "2024-05-19T23:22:14.122094Z",
-     "shell.execute_reply": "2024-05-19T23:22:14.120939Z"
+     "iopub.execute_input": "2024-05-21T01:15:13.094483Z",
+     "iopub.status.busy": "2024-05-21T01:15:13.094103Z",
+     "iopub.status.idle": "2024-05-21T01:15:13.118977Z",
+     "shell.execute_reply": "2024-05-21T01:15:13.117901Z"
     },
     "papermill": {
-     "duration": 0.035223,
-     "end_time": "2024-05-19T23:22:14.124697",
+     "duration": 0.03199,
+     "end_time": "2024-05-21T01:15:13.121751",
      "exception": false,
-     "start_time": "2024-05-19T23:22:14.089474",
+     "start_time": "2024-05-21T01:15:13.089761",
      "status": "completed"
     },
     "tags": []
@@ -225,19 +225,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "39c0fd12",
+   "id": "47b61ced",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:14.135603Z",
-     "iopub.status.busy": "2024-05-19T23:22:14.134624Z",
-     "iopub.status.idle": "2024-05-19T23:22:14.143560Z",
-     "shell.execute_reply": "2024-05-19T23:22:14.142563Z"
+     "iopub.execute_input": "2024-05-21T01:15:13.130205Z",
+     "iopub.status.busy": "2024-05-21T01:15:13.129824Z",
+     "iopub.status.idle": "2024-05-21T01:15:13.136824Z",
+     "shell.execute_reply": "2024-05-21T01:15:13.135669Z"
     },
     "papermill": {
-     "duration": 0.017027,
-     "end_time": "2024-05-19T23:22:14.146200",
+     "duration": 0.013879,
+     "end_time": "2024-05-21T01:15:13.139097",
      "exception": false,
-     "start_time": "2024-05-19T23:22:14.129173",
+     "start_time": "2024-05-21T01:15:13.125218",
      "status": "completed"
     },
     "tags": []
@@ -263,19 +263,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "8934debc",
+   "id": "2079d07c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:14.156910Z",
-     "iopub.status.busy": "2024-05-19T23:22:14.156540Z",
-     "iopub.status.idle": "2024-05-19T23:22:32.304580Z",
-     "shell.execute_reply": "2024-05-19T23:22:32.303324Z"
+     "iopub.execute_input": "2024-05-21T01:15:13.148362Z",
+     "iopub.status.busy": "2024-05-21T01:15:13.147959Z",
+     "iopub.status.idle": "2024-05-21T01:15:24.294154Z",
+     "shell.execute_reply": "2024-05-21T01:15:24.293048Z"
     },
     "papermill": {
-     "duration": 18.156912,
-     "end_time": "2024-05-19T23:22:32.307834",
+     "duration": 11.153877,
+     "end_time": "2024-05-21T01:15:24.296928",
      "exception": false,
-     "start_time": "2024-05-19T23:22:14.150922",
+     "start_time": "2024-05-21T01:15:13.143051",
      "status": "completed"
     },
     "tags": []
@@ -296,19 +296,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "31136e3f",
+   "id": "c53ffba4",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:32.318561Z",
-     "iopub.status.busy": "2024-05-19T23:22:32.318164Z",
-     "iopub.status.idle": "2024-05-19T23:22:32.327095Z",
-     "shell.execute_reply": "2024-05-19T23:22:32.325957Z"
+     "iopub.execute_input": "2024-05-21T01:15:24.307019Z",
+     "iopub.status.busy": "2024-05-21T01:15:24.306020Z",
+     "iopub.status.idle": "2024-05-21T01:15:24.314160Z",
+     "shell.execute_reply": "2024-05-21T01:15:24.313187Z"
     },
     "papermill": {
-     "duration": 0.017014,
-     "end_time": "2024-05-19T23:22:32.329372",
+     "duration": 0.015446,
+     "end_time": "2024-05-21T01:15:24.316577",
      "exception": false,
-     "start_time": "2024-05-19T23:22:32.312358",
+     "start_time": "2024-05-21T01:15:24.301131",
      "status": "completed"
     },
     "tags": []
@@ -324,19 +324,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "223c48d4",
+   "id": "48500caa",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:32.339891Z",
-     "iopub.status.busy": "2024-05-19T23:22:32.339171Z",
-     "iopub.status.idle": "2024-05-19T23:22:34.147825Z",
-     "shell.execute_reply": "2024-05-19T23:22:34.146599Z"
+     "iopub.execute_input": "2024-05-21T01:15:24.325624Z",
+     "iopub.status.busy": "2024-05-21T01:15:24.325283Z",
+     "iopub.status.idle": "2024-05-21T01:15:25.924045Z",
+     "shell.execute_reply": "2024-05-21T01:15:25.923096Z"
     },
     "papermill": {
-     "duration": 1.818922,
-     "end_time": "2024-05-19T23:22:34.152602",
+     "duration": 1.608098,
+     "end_time": "2024-05-21T01:15:25.928281",
      "exception": false,
-     "start_time": "2024-05-19T23:22:32.333680",
+     "start_time": "2024-05-21T01:15:24.320183",
      "status": "completed"
     },
     "tags": []
@@ -345,7 +345,7 @@
     {
      "data": {
       "text/plain": [
-       "<seaborn.axisgrid.FacetGrid at 0x7e9be1cc3280>"
+       "<seaborn.axisgrid.FacetGrid at 0x7d4d92fd9750>"
       ]
      },
      "execution_count": 7,
@@ -372,19 +372,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "602d62d2",
+   "id": "62856715",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-05-19T23:22:34.171591Z",
-     "iopub.status.busy": "2024-05-19T23:22:34.170507Z",
-     "iopub.status.idle": "2024-05-19T23:22:34.187417Z",
-     "shell.execute_reply": "2024-05-19T23:22:34.186188Z"
+     "iopub.execute_input": "2024-05-21T01:15:25.945985Z",
+     "iopub.status.busy": "2024-05-21T01:15:25.944964Z",
+     "iopub.status.idle": "2024-05-21T01:15:25.971590Z",
+     "shell.execute_reply": "2024-05-21T01:15:25.970480Z"
     },
     "papermill": {
-     "duration": 0.029063,
-     "end_time": "2024-05-19T23:22:34.189773",
+     "duration": 0.038263,
+     "end_time": "2024-05-21T01:15:25.973938",
      "exception": false,
-     "start_time": "2024-05-19T23:22:34.160710",
+     "start_time": "2024-05-21T01:15:25.935675",
      "status": "completed"
     },
     "tags": []
@@ -392,133 +392,25 @@
    "outputs": [
     {
      "data": {
-      "text/html": [
-       "<div>\n",
-       "<style scoped>\n",
-       "    .dataframe tbody tr th:only-of-type {\n",
-       "        vertical-align: middle;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe tbody tr th {\n",
-       "        vertical-align: top;\n",
-       "    }\n",
-       "\n",
-       "    .dataframe thead th {\n",
-       "        text-align: right;\n",
-       "    }\n",
-       "</style>\n",
-       "<table border=\"1\" class=\"dataframe\">\n",
-       "  <thead>\n",
-       "    <tr style=\"text-align: right;\">\n",
-       "      <th></th>\n",
-       "      <th>county</th>\n",
-       "      <th>is_business</th>\n",
-       "      <th>product_type</th>\n",
-       "      <th>target</th>\n",
-       "      <th>is_consumption</th>\n",
-       "      <th>datetime</th>\n",
-       "      <th>data_block_id</th>\n",
-       "      <th>row_id</th>\n",
-       "      <th>prediction_unit_id</th>\n",
-       "      <th>date</th>\n",
-       "      <th>year</th>\n",
-       "      <th>dayofyear</th>\n",
-       "    </tr>\n",
-       "  </thead>\n",
-       "  <tbody>\n",
-       "    <tr>\n",
-       "      <th>0</th>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0.713</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>2021</td>\n",
-       "      <td>244</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>1</th>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>1</td>\n",
-       "      <td>96.590</td>\n",
-       "      <td>1</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>0</td>\n",
-       "      <td>1</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>2021</td>\n",
-       "      <td>244</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>2</th>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2</td>\n",
-       "      <td>0.000</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2</td>\n",
-       "      <td>1</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>2021</td>\n",
-       "      <td>244</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>3</th>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2</td>\n",
-       "      <td>17.314</td>\n",
-       "      <td>1</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>1</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>2021</td>\n",
-       "      <td>244</td>\n",
-       "    </tr>\n",
-       "    <tr>\n",
-       "      <th>4</th>\n",
-       "      <td>0</td>\n",
-       "      <td>0</td>\n",
-       "      <td>3</td>\n",
-       "      <td>2.904</td>\n",
-       "      <td>0</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>0</td>\n",
-       "      <td>4</td>\n",
-       "      <td>2</td>\n",
-       "      <td>2021-09-01</td>\n",
-       "      <td>2021</td>\n",
-       "      <td>244</td>\n",
-       "    </tr>\n",
-       "  </tbody>\n",
-       "</table>\n",
-       "</div>"
-      ],
       "text/plain": [
-       "   county  is_business  product_type  target  is_consumption   datetime  \\\n",
-       "0       0            0             1   0.713               0 2021-09-01   \n",
-       "1       0            0             1  96.590               1 2021-09-01   \n",
-       "2       0            0             2   0.000               0 2021-09-01   \n",
-       "3       0            0             2  17.314               1 2021-09-01   \n",
-       "4       0            0             3   2.904               0 2021-09-01   \n",
-       "\n",
-       "   data_block_id  row_id  prediction_unit_id        date  year  dayofyear  \n",
-       "0              0       0                   0  2021-09-01  2021        244  \n",
-       "1              0       1                   0  2021-09-01  2021        244  \n",
-       "2              0       2                   1  2021-09-01  2021        244  \n",
-       "3              0       3                   1  2021-09-01  2021        244  \n",
-       "4              0       4                   2  2021-09-01  2021        244  "
+       "county\n",
+       "0     212928\n",
+       "11    198000\n",
+       "7     173088\n",
+       "5     151632\n",
+       "15    148752\n",
+       "4     147264\n",
+       "10    134640\n",
+       "14    125808\n",
+       "3     122496\n",
+       "9     122496\n",
+       "13    121056\n",
+       "2     115200\n",
+       "1      91872\n",
+       "8      91872\n",
+       "6      30624\n",
+       "12     30624\n",
+       "Name: count, dtype: int64"
       ]
      },
      "execution_count": 8,
@@ -527,8 +419,25 @@
     }
    ],
    "source": [
-    "df.head()"
+    "df['county'].value_counts()"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d4e2c728",
+   "metadata": {
+    "papermill": {
+     "duration": 0.007081,
+     "end_time": "2024-05-21T01:15:25.989350",
+     "exception": false,
+     "start_time": "2024-05-21T01:15:25.982269",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
@@ -566,14 +475,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 29.913818,
-   "end_time": "2024-05-19T23:22:34.819479",
+   "duration": 21.271201,
+   "end_time": "2024-05-21T01:15:26.618306",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-05-19T23:22:04.905661",
+   "start_time": "2024-05-21T01:15:05.347105",
    "version": "2.5.0"
   }
  },
